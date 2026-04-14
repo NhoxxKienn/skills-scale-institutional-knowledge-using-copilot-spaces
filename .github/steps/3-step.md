@@ -23,12 +23,12 @@ Effective process evolution follows a lightweight cycle:
 
 ### ⌨️ Activity: Attach an issue template and create an issue for process improvements
 
-   <img width="50%" alt="copilot-spaces-yours" src="../images/copilot-spaces-yours.png" />
+   <img width="50%" alt="copilot-spaces-yours" src="https://github.com/NhoxxKienn/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/copilot-spaces-yours.png?raw=true" />
 
-1. Add your files from the repository to the conversation by clicking on <img width="5%" alt="add-files-plus" src="../images/add-files-plus.png" /> and selecting the option to add **Files**:
+1. Add your files from the repository to the conversation by clicking on <img width="5%" alt="add-files-plus" src="https://github.com/NhoxxKienn/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/add-files-plus.png?raw=true" /> and selecting the option to add **Files**:
 
-   <img width="50%" alt="copilot-spaces-chat-plus" src="../images/copilot-spaces-chat-plus.png" />
-   <img width="30%" alt="add-files" src="../images/add-files.png" />
+   <img width="50%" alt="copilot-spaces-chat-plus" src="https://github.com/NhoxxKienn/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/copilot-spaces-chat-plus.png?raw=true" />
+   <img width="30%" alt="add-files" src="https://github.com/NhoxxKienn/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/add-files.png?raw=true" />
 
 1. Select your repository or copy and paste the repository name in the search bar to find it:
 
@@ -36,17 +36,17 @@ Effective process evolution follows a lightweight cycle:
    > {{full_repo_name}}
    > ```
 
-   <img width="40%" alt="add-sources-repository" src="../images/add-sources-repository.png" />
+   <img width="40%" alt="add-sources-repository" src="https://github.com/NhoxxKienn/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/add-sources-repository.png?raw=true" />
 
 1. Select the issue template to this new Copilot Space conversation.
 
    `.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml`
 
-     <img width="30%" alt="add-issue-template" src="../images/add-issue-template.png" />
+     <img width="30%" alt="add-issue-template" src="https://github.com/NhoxxKienn/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/add-issue-template.png?raw=true" />
 
 1. Start a new conversation in the Copilot Space and use the following prompt to create an issue that identifies gaps in the project management processes documentation related to personas/roles and outlines needed improvements. Make sure to reference the attached issue template in your prompt.
 
-   <img width="40%" alt="copilot-spaces-chat" src="../images/copilot-spaces-chat.png" />
+   <img width="40%" alt="copilot-spaces-chat" src="https://github.com/NhoxxKienn/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/copilot-spaces-chat.png?raw=true" />
 
   > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
   >
@@ -64,7 +64,7 @@ Effective process evolution follows a lightweight cycle:
    <details>
    <summary> 📷 Show screenshot of the issue draft</summary>
 
-   <img width="50%" alt="personas-roles-issue-draft" src="../images/personas-roles-issue-draft.png" />
+   <img width="50%" alt="personas-roles-issue-draft" src="https://github.com/NhoxxKienn/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/personas-roles-issue-draft.png?raw=true" />
 
    </details>
    You can copy or open the link in a new tab to see the newly created issue
@@ -72,7 +72,7 @@ Effective process evolution follows a lightweight cycle:
    <details>
    <summary> 📷 Show screenshot of the created issue</summary>
 
-   <img width="50%" alt="personas-roles-issue-created" src="../images/personas-roles-issue-created.png" />
+   <img width="50%" alt="personas-roles-issue-created" src="https://github.com/NhoxxKienn/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/personas-roles-issue-created.png?raw=true" />
 
    </details>
 
@@ -100,7 +100,7 @@ In the same Copilot Space conversation do the following:
 
    (Example: if your issue is #4, type `@{{full_repo_name}}/issues/4`)
 
-   <img width="40%" alt="repository-issue-pr-creation" src="../images/repository-issue-pr-creation-step3.png" />
+   <img width="40%" alt="repository-issue-pr-creation" src="https://github.com/NhoxxKienn/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/repository-issue-pr-creation-step3.png?raw=true" />
 
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
@@ -116,7 +116,7 @@ In the same Copilot Space conversation do the following:
 
 4. **Allow the coding agent**: When prompted, select **Allow** to let the coding agent work on your repository
 
-   <img width="50%" alt="copilot-coding-agent-allow" src="../images/copilot-coding-agent-allow.png" />
+   <img width="50%" alt="copilot-coding-agent-allow" src="https://github.com/NhoxxKienn/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/copilot-coding-agent-allow.png?raw=true" />
 
 5. **Monitor progress**: You should receive a notification that the Copilot coding agent is working on your pull request.
 
@@ -126,17 +126,17 @@ In the same Copilot Space conversation do the following:
 
    Go to your repository and click **Pull requests** and select the pull request to see the progress:
 
-      <img width="70%" alt="pull-requests" src="../images/pull-requests.png" />
+      <img width="70%" alt="pull-requests" src="https://github.com/NhoxxKienn/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/pull-requests.png?raw=true" />
 
    #### Option 2: Check Agent Sessions in your Copilot Space on the left side under Agent sessions
 
    You can track the progress of the Copilot coding agent and view details on the left side under **Agent sessions**. Click on the session to see details about the tasks being performed by the agent.
 
-      <img width="40%" alt="agent-session" src="../images/agent-sessions-2.png" />
+      <img width="40%" alt="agent-session" src="https://github.com/NhoxxKienn/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/agent-sessions-2.png?raw=true" />
 
    You can get to the pull request that the agent is working on by clicking the link in the session details at the bottom where it says **View pull request**.
 
-      <img width="40%" alt="view-pull-request" src="../images/view-pull-request.png" />
+      <img width="40%" alt="view-pull-request" src="https://github.com/NhoxxKienn/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/view-pull-request.png?raw=true" />
 
 6. **Check open pull requests**: We can check pull request status from our **Copilot Space** as well.
 
@@ -146,23 +146,23 @@ In the same Copilot Space conversation do the following:
    > check open pull requests
    > ```
 
-   <img width="40%" alt="check-open-prs" src="../images/check-open-prs-3.png" />
+   <img width="40%" alt="check-open-prs" src="https://github.com/NhoxxKienn/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/check-open-prs-3.png?raw=true" />
 
 > [!NOTE]
-> The coding agent typically takes 5-15 minutes to complete the work. If you want to track the work that the Copilot coding agent is doing from within the pull request, click **View session** <img width="10%" alt="view-session" src="../images/view-session.png" /> to watch the progress if desired.
+> The coding agent typically takes 5-15 minutes to complete the work. If you want to track the work that the Copilot coding agent is doing from within the pull request, click **View session** <img width="10%" alt="view-session" src="https://github.com/NhoxxKienn/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/view-session.png?raw=true" /> to watch the progress if desired.
 
 7. **Review and merge**: Once the pull request is ready:
 
    a. **Submit review**: Leave a comment (optional), click **Approve**, then **Submit review**
 
-      <img width="70%" alt="add-review" src="../images/add-review.png" />
+      <img width="70%" alt="add-review" src="https://github.com/NhoxxKienn/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/add-review.png?raw=true" />
 
-      <img width="50%" alt="submit-review" src="../images/submit-review.png" />
+      <img width="50%" alt="submit-review" src="https://github.com/NhoxxKienn/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/submit-review.png?raw=true" />
 
    b. **Merge**: Select **Ready for review**, then **Merge pull request** and **Confirm merge**
 
-      <img width="50%" alt="ready-for-review" src="../images/ready-for-review.png" />
-      <img width="50%" alt="merge-pull-request" src="../images/merge-pull-request.png" />
+      <img width="50%" alt="ready-for-review" src="https://github.com/NhoxxKienn/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/ready-for-review.png?raw=true" />
+      <img width="50%" alt="merge-pull-request" src="https://github.com/NhoxxKienn/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/.github/images/merge-pull-request.png?raw=true" />
 
 <details>
 <summary>Having trouble? 🤷</summary>
